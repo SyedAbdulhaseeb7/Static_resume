@@ -80,7 +80,7 @@ const StaticResume = () => {
           <img className="mx-auto w-full h-full  object-cover" src="https://media.licdn.com/dms/image/v2/D4E03AQEc3Ip8ES3zzA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725449916514?e=1736985600&v=beta&t=Pcp3N0qZdEJeLNwl8AplZcWiybqm23JqRXQ1HklB75c" alt="profile" width={500} height={300} priority />
         </div>
         <h2 className={`${resumeSubHeading} bg-white border border-primary-color`}>About Me</h2>
-        <p className="text-sm desktop:text-base my-6">
+        <p className="text-sm desktop:text-base my-~6">
           I am a dedicated front-end developer with expertise in JavaScript, HTML, CSS, and Tailwind CSS. I am passionate about creating responsive, intuitive, and high-performance web applications. Currently, I am actively seeking internship opportunities to apply my skills and gain hands-on experience.
         </p>
 
